@@ -1,0 +1,21 @@
+a {
+  text-decoration: none;
+}
+.shadow-button {
+background-color: #212960;
+color: #fff;
+padding: 10px 20px;
+border: none;
+border-radius: 15px;
+cursor: pointer;
+box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.shadow-button:hover {
+background-color: #0056b3;
+}
+    body {
+        font-family: Open Sans semibold;
+        color:#212960;
+        font-size: 40px;
+    }
